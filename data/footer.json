@@ -1,0 +1,20 @@
+{
+    "footer_logo": "https://res.cloudinary.com/hungryram19/image/upload/v1628898739/templates/realestate2/re-logo_l6o3kg.png",
+    "footer_logo_width": 100,
+    "footer_title": "My Company",
+    "colors": {
+        "enable_white_text": true
+    },
+    "quick_links": [
+        {
+            "link": "https://hungryram.com",
+            "label": "Home"
+        },
+        {
+            "link": "https://hungryram.com",
+            "label": "About"
+        }
+    ],
+    "footer_paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, eveniet! Officia repellendus aliquam necessitatibus iure, porro voluptas magnam laboriosam nesciunt",
+    "footer_disclaimer": "The data and information contained within this website are for informational purposes. We try our best to keep all information up-to-date but encourage visitors to do their own research to determine the accuracy of material available on this website. While we strive to keep the information accurate, we do not warrant the accuracy or completeness of the information, text, graphics, links, or other items contained within these materials. Please visit our full disclaimer for more information."
+}

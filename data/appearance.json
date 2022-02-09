@@ -1,0 +1,12 @@
+{
+	"branding": {
+		"logo": "https://res.cloudinary.com/hungryram19/image/upload/v1628898739/templates/realestate2/re-logo_l6o3kg.png",
+        "logo_alt_tag": "My Company Logo",
+        "logo_width": 100,
+		"favicon": ""
+	},
+	"colors": {
+		"primary_color": "#2196f3",
+		"secondary_color": "#6a6a6a"
+	}
+}
