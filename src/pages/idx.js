@@ -6,7 +6,7 @@ export default function Idx() {
         <Layout>
             <div className="uk-section">
                 <div className="uk-container">
-                    <div dangerouslySetInnerHTML={{ __html: "{idxbody}" }} />
+                    <div dangerouslySetInnerHTML={{ __html: "{idxbody}" }} /> 
                 </div>
             </div>
         </Layout>
